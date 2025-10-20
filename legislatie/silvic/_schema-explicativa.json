@@ -1,1 +1,76 @@
-
+{
+  "schema_explicativa": {
+    "version": "2025.10.21",
+    "description": "Mapare legislativă critică pentru Contract-tip V2.7.2, Anexe A–H și Procedura internă 2025 – Obștea Moșnenilor Chiojdeni.",
+    "domains": {
+      "fundament_juridic_si_procedural": {
+        "legea_331_2024": {
+          "title": "Legea nr. 331/2024 - Codul Silvic",
+          "role": "Temei material pentru administrare, exploatare și valorificare.",
+          "impact": "Preambul, Art. 1–4, Note legale.",
+          "maps_to": ["Contract", "Procedura Internă"]
+        },
+        "hg_715_2017": {
+          "title": "HG nr. 715/2017 - Regulamentul de valorificare a masei lemnoase",
+          "role": "Reglementează procedura de licitație, garanții, adjudecare.",
+          "impact": "Caiet de sarcini, Formulare ofertă, Procese-verbale.",
+          "maps_to": ["Procedura Internă", "Anexe Licitație"]
+        },
+        "om_322_2025": {
+          "title": "OM nr. 322/2025 - Prețuri de referință lemn",
+          "role": "Bază economică pentru valoarea estimată și prețul de pornire.",
+          "impact": "Art. Preț/Plată, Caiet de sarcini.",
+          "maps_to": ["Contract", "Caiet de sarcini"]
+        },
+        "legea_1_2000_si_legea_247_2005": {
+          "title": "Legea nr. 1/2000 + Legea nr. 247/2005 - Drept de proprietate și dispoziție",
+          "role": "Justifică dreptul Obștii de a dispune de masa lemnoasă.",
+          "impact": "Preambul, Art. 1, Dosar procedură.",
+          "maps_to": ["Contract", "Procedura Internă"]
+        }
+      },
+      "anexe_tehnice_si_executie": {
+        "om_1540_2011": {
+          "title": "OM nr. 1540/2011 - Inventarierea masei lemnoase (APV)",
+          "role": "Bază tehnică pentru APV și proces-verbal de predare-primire.",
+          "impact": "Anexa A și B, Art. Execuție/Livrare.",
+          "maps_to": ["Anexe Tehnice"]
+        },
+        "legea_319_2006_si_hg_1425_2006": {
+          "title": "Legea nr. 319/2006 + HG nr. 1425/2006 - Securitatea și sănătatea în muncă",
+          "role": "Reglementează obligațiile SSM și transferul de responsabilitate către cumpărător.",
+          "impact": "Art. SSM, Răspundere, Anexe SSM.",
+          "maps_to": ["Contract", "Anexe SSM"]
+        }
+      },
+      "conformitate_si_trasabilitate": {
+        "hg_497_2020": {
+          "title": "HG nr. 497/2020 - SUMAL 2.0",
+          "role": "Reglementează trasabilitatea, avizele și raportarea digitală.",
+          "impact": "Art. Transport/Avize, Procedura verificare predare.",
+          "maps_to": ["Contract", "Procedura Internă"]
+        },
+        "legea_171_2010": {
+          "title": "Legea nr. 171/2010 - Contravenții silvice",
+          "role": "Regim sancționator aplicabil în caz de abateri.",
+          "impact": "Art. Penalități/Reziliere.",
+          "maps_to": ["Contract", "Notificări Standard"]
+        },
+        "hg_236_2023": {
+          "title": "HG nr. 236/2023 - Amenajamente silvice",
+          "role": "Invocată doar dacă anexele fac trimitere la amenajamentul aprobat.",
+          "impact": "Anexe tehnice, Preambul tehnic.",
+          "maps_to": ["Anexe Tehnice (opțional)"]
+        }
+      }
+    },
+    "maintenance": {
+      "last_review": "2025-10-21",
+      "update_rules": [
+        "Înlocuirea anuală a ordinului OM 322 cu versiunea nouă.",
+        "Actualizarea articolelor Codului Silvic și SUMAL la fiecare modificare.",
+        "Menținerea structurii domeniilor și a mapării contractuale."
+      ]
+    }
+  }
+}
