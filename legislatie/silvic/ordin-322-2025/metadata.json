@@ -1,0 +1,47 @@
+{
+  "id": "ordin-322-2025",
+  "title": "Ordinul nr. 322/2025 privind prețurile de referință pentru masa lemnoasă",
+  "type": "Ordin",
+  "number": "322",
+  "year": 2025,
+  "jurisdiction": "RO",
+  "status": "în vigoare",
+  "published_in": {
+    "monitorul_oficial": "Monitorul Oficial al României",
+    "mo_number": "",
+    "mo_date": ""
+  },
+  "scope": [
+    "prețuri de referință masa lemnoasă",
+    "licitații",
+    "evaluare economică"
+  ],
+  "keywords": [
+    "preț referință",
+    "licitație",
+    "valoare estimată",
+    "caiet de sarcini"
+  ],
+  "related_documents": [
+    "HG 715/2017 - Regulamentul de valorificare",
+    "Legea 331/2024 - Codul Silvic"
+  ],
+  "repository_map": {
+    "law_pdf_path": "legislatie/silvic/ordin-322-2025/ordin-322-2025.pdf",
+    "metadata_path": "legislatie/silvic/ordin-322-2025/metadata.json",
+    "readme_path": "legislatie/silvic/ordin-322-2025/README.md"
+  },
+  "obste_alignment": {
+    "trusou_procedural_version": "2025",
+    "usage": [
+      "bază de calcul pentru prețul minim de pornire",
+      "referință în Caietul de sarcini și Anexa de evaluare",
+      "articole contract privind prețul/valoarea"
+    ]
+  },
+  "added_by": "Costin",
+  "added_at": "2025-10-21T00:00:00+03:00",
+  "notes": [
+    "Act anual; la actualizare se va înlocui cu ordinul nou."
+  ]
+}
