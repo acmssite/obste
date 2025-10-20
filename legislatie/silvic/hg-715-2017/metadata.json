@@ -1,0 +1,66 @@
+{
+  "id": "hg-715-2017",
+  "title": "Hotărârea Guvernului nr. 715/2017 privind aprobarea Regulamentului de valorificare a masei lemnoase din fondul forestier proprietate publică",
+  "type": "HG",
+  "number": "715",
+  "year": 2017,
+  "jurisdiction": "RO",
+  "status": "în vigoare (verifică modificările ulterioare)",
+  "promulgation_date": "2017-09-06",
+  "published_in": {
+    "monitorul_oficial": "Monitorul Oficial al României",
+    "mo_number": "",
+    "mo_date": ""
+  },
+  "last_amended": {
+    "by": [],
+    "date": null,
+    "notes": "A se verifica periodic modificările/completările (corelări cu Legea nr. 331/2024 și ordine MMAP/IFN)."
+  },
+  "scope": [
+    "proceduri licitație masă lemnoasă",
+    "negociere directă",
+    "acte și termene",
+    "comisia de licitație",
+    "caiet de sarcini",
+    "garanții de participare și bună execuție",
+    "criterii de calificare și adjudecare"
+  ],
+  "keywords": [
+    "licitație masă lemnoasă",
+    "vânzare pe picior",
+    "exploatare forestieră",
+    "caiet de sarcini",
+    "proces-verbal licitație",
+    "adjudecare",
+    "negociere directă",
+    "garanție de participare",
+    "garanție de bună execuție",
+    "comisia de licitație",
+    "obște",
+    "SUMAL"
+  ],
+  "related_documents": [
+    "Legea nr. 46/2008 - Codul Silvic",
+    "Legea nr. 331/2024",
+    "Reglementări SUMAL (versiunea în vigoare)"
+  ],
+  "obste_alignment": {
+    "trusou_procedural_version": "2025",
+    "contract_tip_reference": "V2.7.2",
+    "fixed_rule_sumal_reference": "Oriunde apare „SUMAL 2.0”, se folosește: „Sistemul informatic național pentru trasabilitatea materialelor lemnoase (SUMAL), în forma și versiunea aflate în vigoare la data aplicării, inclusiv actualizările și versiunile ulterioare (ex. SUMAL 3.0)”."
+  },
+  "repository_map": {
+    "law_pdf_path": "legislatie/silvic/hg-715-2017/hg-715-2017.pdf",
+    "readme_path": "legislatie/silvic/hg-715-2017/README.md",
+    "metadata_path": "legislatie/silvic/hg-715-2017/metadata.json"
+  },
+  "source_url": "",
+  "checksum": { "algo": "sha256", "value": "" },
+  "added_by": "Costin",
+  "added_at": "2025-10-20T00:00:00+03:00",
+  "notes": [
+    "Document de bază pentru procedurile de licitație/negociere din Trusoul Procedural 2025 – Obștea Moșnenilor Chiojdeni.",
+    "Marcaj constant în documentele interne: «Model conform Contractului-tip V2.7.2 și Procedurii interne 2025»."
+  ]
+}
