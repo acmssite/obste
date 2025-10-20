@@ -1,0 +1,45 @@
+{
+  "id": "hg-236-2023",
+  "title": "Hotărârea Guvernului nr. 236/2023 privind amenajamentele silvice",
+  "type": "HG",
+  "number": "236",
+  "year": 2023,
+  "jurisdiction": "RO",
+  "status": "în vigoare",
+  "published_in": {
+    "monitorul_oficial": "Monitorul Oficial al României",
+    "mo_number": "",
+    "mo_date": ""
+  },
+  "scope": [
+    "amenajamente silvice",
+    "planificare tăieri",
+    "actualizare și aprobare amenajamente"
+  ],
+  "keywords": [
+    "amenajament",
+    "fond forestier",
+    "plan de tăieri",
+    "obște"
+  ],
+  "related_documents": [
+    "Legea 331/2024 - Codul Silvic",
+    "HG 715/2017 - Regulamentul de valorificare a masei lemnoase"
+  ],
+  "repository_map": {
+    "law_pdf_path": "legislatie/silvic/hg-236-2023/hg-236-2023.pdf",
+    "metadata_path": "legislatie/silvic/hg-236-2023/metadata.json",
+    "readme_path": "legislatie/silvic/hg-236-2023/README.md"
+  },
+  "obste_alignment": {
+    "trusou_procedural_version": "2025",
+    "usage": [
+      "referință în anexele tehnice când se citează amenajamentul aprobat"
+    ]
+  },
+  "added_by": "Costin",
+  "added_at": "2025-10-21T00:00:00+03:00",
+  "notes": [
+    "Se invocă în contract doar dacă anexele indică amenajamentul aprobat."
+  ]
+}
