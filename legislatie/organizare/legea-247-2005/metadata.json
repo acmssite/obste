@@ -1,0 +1,51 @@
+{
+  "id": "legea-247-2005",
+  "title": "Legea nr. 247/2005 privind reforma în domeniile proprietăţii şi justiţiei",
+  "type": "Lege",
+  "number": "247",
+  "year": 2005,
+  "jurisdiction": "RO",
+  "status": "în vigoare (cu modificări și completări)",
+  "promulgation_date": "2005-07-19",
+  "published_in": {
+    "monitorul_oficial": "Monitorul Oficial al României, Partea I",
+    "mo_number": "",
+    "mo_date": ""
+  },
+  "scope": [
+    "reforma proprietății",
+    "proceduri de retrocedare",
+    "completări la Legea 1/2000",
+    "titluri de proprietate"
+  ],
+  "keywords": [
+    "proprietate",
+    "retrocedare",
+    "fond forestier",
+    "obște",
+    "titlu de proprietate"
+  ],
+  "related_documents": [
+    "Legea nr. 1/2000 - reconstituirea dreptului de proprietate",
+    "Legea nr. 331/2024 - Codul Silvic"
+  ],
+  "repository_map": {
+    "law_pdf_path": "legislatie/organizare/legea-247-2005/legea-247-2005.pdf",
+    "metadata_path": "legislatie/organizare/legea-247-2005/metadata.json",
+    "readme_path": "legislatie/organizare/legea-247-2005/README.md"
+  },
+  "obste_alignment": {
+    "trusou_procedural_version": "2025",
+    "contract_tip_reference": "V2.7.2",
+    "usage": [
+      "preambul contract (temeiul dreptului de dispoziție al Obștii)",
+      "corelare cu Legea 1/2000 în privința titlurilor de proprietate",
+      "referință în procedură pentru justificarea calității de proprietar"
+    ]
+  },
+  "added_by": "Costin",
+  "added_at": "2025-10-21T00:00:00+03:00",
+  "notes": [
+    "Completează Legea 1/2000 și oferă cadrul procedural al retrocedării."
+  ]
+}
