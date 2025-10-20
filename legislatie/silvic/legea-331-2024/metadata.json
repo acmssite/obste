@@ -1,0 +1,18 @@
+{
+  "id": "legea-331-2024",
+  "title": "Legea nr. 331/2024 privind Codul Silvic",
+  "type": "Lege",
+  "number": "331",
+  "year": 2024,
+  "jurisdiction": "RO",
+  "status": "în vigoare",
+  "scope": ["administrare fond forestier", "exploatare", "trasabilitate", "SUMAL"],
+  "keywords": ["cod silvic", "exploatare", "SUMAL", "fond forestier", "obște"],
+  "repository_map": {
+    "law_pdf_path": "legislatie/silvic/legea-331-2024/legea-331-2024.pdf",
+    "metadata_path": "legislatie/silvic/legea-331-2024/metadata.json"
+  },
+  "added_by": "Costin",
+  "added_at": "2025-10-20T00:00:00+03:00",
+  "notes": ["Act principal de referință pentru toate procedurile silvice în cadrul Trusoul Procedural 2025."]
+}
