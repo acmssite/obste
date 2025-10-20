@@ -1,0 +1,51 @@
+{
+  "id": "legea-1-2000",
+  "title": "Legea nr. 1/2000 privind reconstituirea dreptului de proprietate asupra terenurilor forestiere",
+  "type": "Lege",
+  "number": "1",
+  "year": 2000,
+  "jurisdiction": "RO",
+  "status": "în vigoare (cu modificări și completări)",
+  "promulgation_date": "2000-01-11",
+  "published_in": {
+    "monitorul_oficial": "Monitorul Oficial al României, Partea I",
+    "mo_number": "8",
+    "mo_date": "2000-01-12"
+  },
+  "scope": [
+    "reconstituirea dreptului de proprietate",
+    "terenuri forestiere",
+    "forme asociative de proprietate",
+    "obști și composesorate"
+  ],
+  "keywords": [
+    "proprietate",
+    "terenuri forestiere",
+    "obște",
+    "reconstituire",
+    "fond forestier"
+  ],
+  "related_documents": [
+    "Legea nr. 247/2005 - completări la Legea 1/2000",
+    "Legea nr. 331/2024 - Codul Silvic"
+  ],
+  "repository_map": {
+    "law_pdf_path": "legislatie/organizare/legea-1-2000/legea-1-2000.pdf",
+    "metadata_path": "legislatie/organizare/legea-1-2000/metadata.json",
+    "readme_path": "legislatie/organizare/legea-1-2000/README.md"
+  },
+  "obste_alignment": {
+    "trusou_procedural_version": "2025",
+    "contract_tip_reference": "V2.7.2",
+    "usage": [
+      "bază juridică pentru dreptul de dispoziție asupra masei lemnoase",
+      "temei legal pentru calitatea de proprietar a Obștii",
+      "referință în preambulul contractului și procedurii de licitație"
+    ]
+  },
+  "added_by": "Costin",
+  "added_at": "2025-10-21T00:00:00+03:00",
+  "notes": [
+    "Act fundamental care legitimează dreptul de proprietate și administrare al Obștii asupra fondului forestier."
+  ]
+}
