@@ -1,0 +1,52 @@
+{
+  "id": "hg-1425-2006",
+  "title": "Hotărârea Guvernului nr. 1425/2006 pentru aprobarea Normelor metodologice de aplicare a prevederilor Legii securității și sănătății în muncă nr. 319/2006",
+  "type": "HG",
+  "number": "1425",
+  "year": 2006,
+  "jurisdiction": "RO",
+  "status": "în vigoare (cu modificări ulterioare)",
+  "promulgation_date": "2006-10-11",
+  "published_in": {
+    "monitorul_oficial": "Monitorul Oficial al României, Partea I",
+    "mo_number": "882",
+    "mo_date": "2006-10-30"
+  },
+  "scope": [
+    "norme metodologice SSM",
+    "organizarea activităților SSM",
+    "evaluarea riscurilor",
+    "instruire SSM",
+    "echipamente individuale de protecție"
+  ],
+  "keywords": [
+    "SSM",
+    "norme metodologice",
+    "securitatea muncii",
+    "instruire",
+    "evaluare riscuri",
+    "EIP"
+  ],
+  "related_documents": [
+    "Legea nr. 319/2006 - Securitatea și sănătatea în muncă"
+  ],
+  "repository_map": {
+    "law_pdf_path": "legislatie/ssm/hg-1425-2006/hg-1425-2006.pdf",
+    "metadata_path": "legislatie/ssm/hg-1425-2006/metadata.json",
+    "readme_path": "legislatie/ssm/hg-1425-2006/README.md"
+  },
+  "obste_alignment": {
+    "trusou_procedural_version": "2025",
+    "contract_tip_reference": "V2.7.2",
+    "usage": [
+      "clauze privind obligațiile SSM ale câștigătorului",
+      "proceduri de instruire și echipare a personalului din exploatare",
+      "cerințe pentru planul de prevenire și protecție"
+    ]
+  },
+  "added_by": "Costin",
+  "added_at": "2025-10-21T00:00:00+03:00",
+  "notes": [
+    "Norme detaliate pentru implementarea Legii 319/2006; se invocă în articolele de răspundere și în anexele tehnice privind SSM."
+  ]
+}
