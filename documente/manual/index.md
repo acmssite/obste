@@ -1,0 +1,2 @@
+- [📘 Jurnalul Proiectului](./jurnal-proiect-ai-juridic-obste-2025.md)
+- [🧠 MasterPrompt Trusou Procedural 2025](../prompt/masterprompt-trusou-procedural-2025.md)
